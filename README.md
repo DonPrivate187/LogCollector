@@ -1,0 +1,2 @@
+# LogCollector
+Cool
